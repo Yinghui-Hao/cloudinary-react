@@ -22,12 +22,12 @@
   "homepage": "https://github.com/cloudinary/cloudinary-react#readme",
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.17",
-    "@storybook/addon-info": "^3.2.17",
-    "@storybook/addon-links": "^3.2.17",
-    "@storybook/react": "^3.2.17",
+    "@storybook/addon-info": "^3.4.11",
+    "@storybook/addon-links": "^3.4.11",
+    "@storybook/react": "^3.4.11",
     "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.0",
-    "babel-loader": "^7.1.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
@@ -37,12 +37,12 @@
     "chai": "^4.1.2",
     "chai-string": "^1.4.0",
     "enzyme": "^3.2.0",
-    "enzyme-adapter-react-16": "^1.1.0",
-    "jsdom": "^11.5.1",
+    "enzyme-adapter-react-16": "^1.7.1",
+    "jsdom": "^11.12.0",
     "mocha": "^4.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "webpack": "^3.9.1"
+    "webpack": "^4.27.1"
   },
   "dependencies": {
     "cloudinary-core": "^2.3.0",
